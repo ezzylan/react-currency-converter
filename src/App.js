@@ -38,7 +38,7 @@ function App() {
 	useEffect(() => {
 		if (fromCurrency != null && toCurrency != null) {
 			fetch(`${BASE_URL}&base=${fromCurrency}&symbols=${toCurrency}`)
-				// fetch only works when fromCurrency = EUR -> dunno the reason yet
+				// fetch only works when fromCurrency = EUR bcos base_currency_access_restricted
 				.then((res) => res.json())
 				.then((data) => setExchangeRate(data.rates[toCurrency]));
 		}
