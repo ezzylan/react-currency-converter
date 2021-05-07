@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-currency-converter/static/css/main.26a17c8b.chunk.css",
+    "main.js": "/react-currency-converter/static/js/main.bfb08a1d.chunk.js",
+    "main.js.map": "/react-currency-converter/static/js/main.bfb08a1d.chunk.js.map",
+    "runtime-main.js": "/react-currency-converter/static/js/runtime-main.9975a7b0.js",
+    "runtime-main.js.map": "/react-currency-converter/static/js/runtime-main.9975a7b0.js.map",
+    "static/js/2.e464cf26.chunk.js": "/react-currency-converter/static/js/2.e464cf26.chunk.js",
+    "static/js/2.e464cf26.chunk.js.map": "/react-currency-converter/static/js/2.e464cf26.chunk.js.map",
+    "index.html": "/react-currency-converter/index.html",
+    "static/css/main.26a17c8b.chunk.css.map": "/react-currency-converter/static/css/main.26a17c8b.chunk.css.map",
+    "static/js/2.e464cf26.chunk.js.LICENSE.txt": "/react-currency-converter/static/js/2.e464cf26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9975a7b0.js",
+    "static/js/2.e464cf26.chunk.js",
+    "static/css/main.26a17c8b.chunk.css",
+    "static/js/main.bfb08a1d.chunk.js"
+  ]
+}
